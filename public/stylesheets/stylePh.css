@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+}
+img {
+    display: flex;
+    flex-direction: row;
+    width: 640px;
+    height: 480px;
+}
